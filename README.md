@@ -1,1 +1,1 @@
-# Solution of the task on the Test Automation Engineer position
+# Solution of the task for the Test Automation Engineer position
